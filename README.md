@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dobbytk)](https://github.com/anuraghazra/github-readme-stats) \
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taekhyunkim/)](https://www.linkedin.com/in/taekhyunkim/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/taekhyun2/898c21c63d18459691207bbfbd7c5eee)](https://www.notion.so/taekhyun2/898c21c63d18459691207bbfbd7c5eee)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gus2dnjf3dlf@gmail.com)](mailto:gus2dnjf3dlf@gmail.com)
+	
+	
