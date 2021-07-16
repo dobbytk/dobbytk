@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dobbytk)](https://github.com/anuraghazra/github-readme-stats)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taekhyunkim/)](https://www.linkedin.com/in/taekhyunkim/) \
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dobbytk)](https://github.com/anuraghazra/github-readme-stats) \
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taekhyunkim/)](https://www.linkedin.com/in/taekhyunkim/)
