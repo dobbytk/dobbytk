@@ -1,4 +1,4 @@
-### 안녕하세요 NLP/AI Researcher를 꿈꾸는 김택현이라고 합니다 👋
+### 안녕하세요, NLP에 관심이 많은 김택현이라고 합니다 👋
 
 <!--
 **dobbytk/dobbytk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
