@@ -37,4 +37,8 @@ Here are some ideas to get you started:
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+<!--
+## Solved.ac
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gus2dnjf3dlf)](https://solved.ac/gus2dnjf3dlf)
+-->
   
