@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   major: English Literature & Language (minor: Computer Science)
 
 ## Awards
-|주관 |대회명|분류 |순위 |상위 |참가 기간|Code|
+|주관 |주제|분류 |순위 |상위 |참가 기간|Code|
 |------|-----------|-------|----|----|-----|------|
 |Dacon |KLUE 뉴스 토픽 분류 AI 경진대회 | NLP | 27/256 | 11% |21.06 - 21.08 | [code](https://dacon.io/competitions/official/235747/codeshare/3050?page=1&dtype=recent)
 |멀티캠퍼스|파파고를 품은 관용구 영어 번역기:Tree| NLP | 대상(1등) | - |21.08 - 21.11|[github](https://github.com/itisused/2021_NLP_Project)
