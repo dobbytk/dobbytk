@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/taekhyun2/898c21c63d18459691207bbfbd7c5eee)](https://www.notion.so/taekhyun2/898c21c63d18459691207bbfbd7c5eee)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gus2dnjf3dlf@gmail.com)](mailto:gus2dnjf3dlf@gmail.com)
 
-## Education
+<!-- ## Education
 * Kookmin University (2015.03-2022.02) </br>
 
-  major: English Literature & Language (minor: Computer Science)
+  major: English Literature & Language (minor: Computer Science) -->
 
 ## Awards
 |주관 |주제|분류 |순위 |상위 |참가 기간|Code|
